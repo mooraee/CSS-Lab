@@ -1,0 +1,20 @@
+body{
+    background-color: #D8F48D;
+    color: #4F553E;
+}
+p {
+font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 150px;
+    border: solid 5px;
+    border-color: #ffffff;
+}
+.b {
+    border: solid;
+    border-color: #7B8E47;
+    margin: 5px;
+    
+}
